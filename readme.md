@@ -16,8 +16,11 @@ it can be up to 16 in some places. You can find the official list
 having the minimum age requirement does not permit explicit or adult jokes given our diverse age group.
 
 > 2) **Don't be a dick.** This means don't harass, discriminate, or be an asshole. If mods or any user asks you to stop doing something, you're making them uncomfortable and any reistance will make you liable for banning. This includes offensive language, trolling, flaming, hate speech, discrimination and bigotry of any kind. Don't tell people to rtfm or post malicious commands without explicitely stating it as a joke.
+### Discrimination
 
-> 3) **No NSFW/NSFL.** Do NOT under any circumstance post nsfw or nsfw (gore/violence) of any kind in the server. This is also not a dating server, so do not hit on people (even accidentally). This server is open to minors, and we can't verify anyones age, so we have to treat all instances as potential interaction with a minor, regardless of how old you say you are.
+We do not tolerate any form of discrimination based on a person's gender, sexuality, race, religion, ethnicity,
+nationality, language, age, body size, and other aspects of their identity. Our community is inclusive, and any
+discriminatory actions may result in moderation action.
 
 > 4) **No spam.** A couple gifs and image macros here and there are fine, but don't flood the chat with memes or gifs. Do not post loud videos without a volume warnings, don't flood it with low effort troll arbage. Don't flood the chat period.
 
