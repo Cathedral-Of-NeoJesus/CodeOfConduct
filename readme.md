@@ -1,7 +1,5 @@
 # The Archverse Code of Conduct
 
-### this is still in the works, so it will have inconsistencies
-
 ### Definitions:
 
 - "Archverse" shall mean the Archverse discord server, and/or any server that it might get renamed to or merged into in
