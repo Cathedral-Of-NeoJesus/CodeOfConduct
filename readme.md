@@ -14,9 +14,9 @@ the future.
 - "You" shall mean the individual and/or entity and/or organization that's behind the account and/or communicating
   through it
 
-- "Messages" shall mean any text, audio, video, image, or other content or data sent by your account
+- "Messages" shall mean any text, audio, video, image, and/or other content or data sent by your account
 
-- Your content means your username, nickname, profile picture, bio, your messages in this server, or messages sent to
+- Your content means your username, nickname, profile picture, bio, your messages in this server, and/or messages sent to
   members of this server in Direct Messages (DMs), 
 
 ### Notice:
@@ -25,7 +25,7 @@ reserve the right to modify these terms at any time. While we will strive to com
 participation in the community after changes are posted will constitute your acceptance of the revised terms.
 
 Additionally, you agree to comply with [Discord’s Terms of Service](https://discord.com/terms) and [Community
-Guidelines](https://discord.com/guidelines). Violations of any of the above may result in suspension or permanent
+Guidelines](https://discord.com/guidelines). Violations of any of the above may result in suspension and/or permanent
 removal from the community.
 
 ### Age Requirements
