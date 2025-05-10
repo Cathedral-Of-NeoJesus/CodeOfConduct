@@ -2,6 +2,23 @@
 
 ### this is still in the works, so it will have inconsistencies
 
+### Definitions:
+
+- "Archverse" shall mean the Archverse discord server, and/or any server that it might get renamed to or merged into in
+the future.
+
+- "Community" shall mean the all of the members, admins, moderation team, and bots and apps combined
+
+- "Code Of Conduct" shall refer to this document
+
+- "You" shall mean the individual and/or entity and/or organization that's behind the account and/or communicating
+  through it
+
+- "Messages" shall mean any text, audio, video, image, or other content or data sent by your account
+
+- Your content means your username, nickname, profile picture, bio, your messages in this server, or messages sent to
+  members of this server in Direct Messages (DMs), 
+
 By participating in the Archverse community, you agree to abide by this Code of Conduct and any future updates to it. We
 reserve the right to modify these terms at any time. While we will strive to communicate significant changes, continued
 participation in the community after changes are posted will constitute your acceptance of the revised terms.
