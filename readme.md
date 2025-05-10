@@ -38,7 +38,7 @@ having the minimum age requirement does not permit explicit or adult jokes given
 ### Discrimination
 
 We do not tolerate any form of discrimination based on a person's gender, sexuality, race, religion, ethnicity,
-nationality, language, age, body size, and other aspects of their identity. Our community is inclusive, and any
+nationality, language, age, body size, disabilities, and other aspects of their identity. Our community is inclusive, and any
 discriminatory actions may result in moderation action.
 
 ### Appropriate content
