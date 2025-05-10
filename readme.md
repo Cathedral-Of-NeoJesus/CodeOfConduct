@@ -28,20 +28,20 @@ Additionally, you agree to comply with [Discord’s Terms of Service](https://di
 Guidelines](https://discord.com/guidelines). Violations of any of the above may result in suspension and/or permanent
 removal from the community.
 
-### Age Requirements
+### 1. Age Requirements
 
 By joining, you confirm that you are old enough to use discord as per their terms of service. The minimum age is 13, but
 it can be up to 16 in some places. You can find the official list
 [here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) Note that
 having the minimum age requirement does not permit explicit or adult jokes given our diverse age group.
 
-### Discrimination
+### 2. Discrimination
 
 We do not tolerate any form of discrimination based on a person's gender, sexuality, race, religion, ethnicity,
 nationality, language, age, body size, disabilities, and other aspects of their identity. Our community is inclusive, and any
 discriminatory actions may result in moderation action.
 
-### Appropriate content
+### 3. Appropriate content
 
 Your content must remain appropriate for a community that includes minors, and adults. It cannot be sexually
 explicit, and/or hateful towards individuals/groups that are generally considered to be not harmful for society.
