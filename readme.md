@@ -86,12 +86,11 @@ Your content must remain appropriate for a community that includes minors, and a
   and/or shitposting in the support channels will revoke your access to them. Do **not** provide or ask for remote
   support via SSH or other protocols.
 
-Please read the [Arch Linux Code of Conduct](<https://terms.archlinux.org/docs/code-of-conduct/>) for further information.
+### Last words:
 
-If you see any rulebreaking, please remember to open a ticket using the /tickets open command.
+If you see any rule-breaking, please remember to open a ticket using the /tickets open command.
 
 Permanent server link: https://discord.gg/archverse
-
 
 <!-- this is never gonna render in the readme, so here i go: -->
 <!-- made with love, written in neovim, neovim is based btw -->
