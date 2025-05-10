@@ -59,7 +59,7 @@ We do not tolerate any form of discrimination based on a person's:
 **By joining, you acknowledge that you abide to the following rules:**
 
   1: **NSFW content is not allowed.**
-  NSFW is strictely forbidden in all of it's forms. Do not attempt to bypass this requirement.
+  NSFW is strictly forbidden in all of it's forms. Do not attempt to bypass this requirement.
   We are a open and welcoming community, that targets a varied age range, and we want to keep a safe enviroment for everyone here.
   You may read the Cornell Law website for legal information: (https://www.law.cornell.edu/uscode/text/18/2256)
 
