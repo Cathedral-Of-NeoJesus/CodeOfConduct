@@ -81,8 +81,10 @@ Your content must remain appropriate for a community that includes minors, and a
   provide links and/or source and/or share screenshots with links to sources on pirated material.
 
 - 6) Support Rules: Support is offered in public channels and is accessible to everyone. Trolling, being malicious,
-  and/or shitposting in the support channels will revoke your access to them. Do **not** provide or ask for remote
-  support via SSH or other protocols.
+  and/or shitposting in the support channels will revoke your access to them. Do **not** provide or ask for support
+  outside the server, This includes DMs, outside servers, Anydesk, Teamviewer, SSH, or any other form of support that's
+  not inside the server. It makes moderation harder, and makes users vulnerable to scams or other bad things, by
+  bypassing entirely moderation of the server.
 
 ### Last words:
 
