@@ -2,23 +2,23 @@
 
 ### 1. Definitions:
 
-- "Archverse":  the Archverse Discord server, and/or any server that it might get renamed to or merged into in
-the future.
+- "Archverse": The Archverse Discord server, and/or any server that it might get renamed to or merged into in the
+  future.
 
-- "Server": the same thing as Archverse
+- "Server": The same thing as Archverse
 
-- "We": the combined group of people in the administration and moderation team
+- "We": The combined group of people in the administration and moderation team
 
-- "Community": the members, admins, moderation team, bots and apps combined
+- "Community": The members, admins, moderation team, bots and apps combined
 
-- "Code Of Conduct": this document
+- "Code Of Conduct": This document
 
-- "You": the individual and/or entity and/or organization that's behind the account and/or communicating
+- "You": The individual and/or entity and/or organization that's behind the account and/or communicating
   through it
 
-- "Messages": any text, audio, video, image, and/or other content or data sent by your account
+- "Messages": Any text, audio, video, image, and/or other content or data sent by your account
 
-- Your content: your username, nickname, profile picture, bio, your messages in this server, and/or messages sent to
+- Your content: Your username, nickname, profile picture, bio, your messages in this server, and/or messages sent to
   members of this server in Direct Messages (DMs)
 
 ### 2. Disclaimer:
@@ -59,8 +59,8 @@ We do not tolerate any form of discrimination based on a person's:
 **By joining, you acknowledge that you abide to the following rules:**
 
   1: **NSFW content is not allowed.**
-  NSFW is strictly forbidden in all of it's forms. Do not attempt to bypass this requirement.
-  We are a open and welcoming community, that targets a varied age range, and we want to keep a safe enviroment for everyone here.
+  NSFW is strictly forbidden in all of its forms. Do not attempt to bypass this requirement.
+  We are an open and welcoming community, that targets a varied age range, and we want to keep a safe environment for everyone here.
   You may read the [Cornell Law website](https://www.law.cornell.edu/uscode/text/18/2256) for legal information
 
   2: **This is not a dating server**.
@@ -81,22 +81,22 @@ We do not tolerate any form of discrimination based on a person's:
   You may not share the sources or link to pirated content, in any form. 
 
   6: **Support Rules:**
-  Tech support regarding Arch Linux, Linux and related is provided as is, and is accesible to anyone in the community.
+  Tech support regarding Arch Linux, Linux and related is provided as is, and should be accessible to anyone in the community.
   You are entitled to help others that may require assistance.
-  You are not "owed" help. People have their own lives, hence they're helping voluntarily and you must therefore respect their free time.
+  You are not "owed" help. People have their own lives, hence they're helping voluntarily, and you must therefore respect their free time.
   You may not ping others that do not want to help you.
   You may link your issue thread, but do not spam it in other channels.
-  Trolling, malicious behavior, and/or shitposting in the support channels is forbidden.
-  You may not provide or ask for remote support via SSH, anydesk, teamviewer or any other form. By extension, you may not take support to DMs.
+  Trolling, malicious behaviour, and/or shitposting in the support channels is forbidden.
+  You may not provide or ask for remote support via SSH, Anydesk, Teamviewer or any other form. By extension, you may not take support to DMs.
   
 ### Last words:
 
 You may report any rule breaking situation and the infractors will be sanctioned properly. 
-You may notify staff and it's moderation team by opening a ticket with the `/tickets open` command.
+You may notify staff and/or the moderation team by opening a ticket with the `/tickets open` command.
 **Respect the privacy of others.**
 
 # You may not attempt to bypass or find loopholes to the aforementioned rules.
-  **Any attempt to do so, will result in moderation actions, and sanctions according to the gravity of the offense.**
+  **Any attempt to do so, will result in moderation actions, and sanctions according to the gravity of the offence.**
 
 
 ## Contributing:
