@@ -59,20 +59,34 @@ Our community is inclusive, and any discriminatory actions may result in moderat
 
 ### 3. Appropriate content
 
-Your content must remain appropriate for a community that includes minors, and adults. It cannot be sexually
-explicit, and/or hateful towards individuals/groups that are generally considered to be not harmful for society.
-Although you can have your own opinion about who's harmful or not, we will follow the widely accepted standards of
-society to define what's harmful or not
+Your content must remain appropriate for a community that includes minors, and adults. It cannot fall under:
 
-> 4) **No spam.** A couple gifs and image macros here and there are fine, but don't flood the chat with memes or gifs. Do not post loud videos without a volume warnings, don't flood it with low effort troll arbage. Don't flood the chat period.
+- 1) Sexually explicit: For more info, you can check out [cornell law
+  website](https://www.law.cornell.edu/uscode/text/18/2256), or search up definitions online. But you may not argue
+  about this in the server.
 
-> 5) **Piracy.** Discussion on piracy is allowed, but do not provide links, or share screenshots with links to sources on pirated material.
+- 2) This is not a dating server. Do not hit on people (even accidentally). This server is open to minors, and we can't
+  verify anyone's age, so we have to treat all instances as potential interaction with a minor, regardless of how old
+  anyone says they are. As an adult, you don't want to get into these kind of stuff with a minor, as a minor, you don't
+  want to get into these kind of stuff with an adult, and as a server, we don't want to see our members engaging in
+  these kinds of behaviours.
 
-> 6)  **Support Rules.** Support is offered in public channels and is accessible to everyone. Trolling, being malicious, or shitposting in the support channels will revoke your access to them. Do **not** provide or ask for remote support via SSH or other protocols.
+- 3) Hateful towards individuals/groups that are generally considered to be not harmful for society. Although you can
+     have your own opinion about who's harmful or not, we will follow the widely accepted standards of society to define
+     what's harmful or not.
+
+- 4) Spam in the general chats: A couple gifs and image macros here and there are fine, but don't flood the chat with
+  memes and/or gifs. Do not post loud videos without a volume warnings, don't flood it with low effort troll garbage.
+  Don't flood the chat period.
+
+- 5) Piracy: Discussion on piracy is allowed, but do comply with the discord TOS, we do not give any permission to
+  provide links and/or source and/or share screenshots with links to sources on pirated material.
+
+- 6) Support Rules: Support is offered in public channels and is accessible to everyone. Trolling, being malicious,
+  and/or shitposting in the support channels will revoke your access to them. Do **not** provide or ask for remote
+  support via SSH or other protocols.
 
 Please read the [Arch Linux Code of Conduct](<https://terms.archlinux.org/docs/code-of-conduct/>) for further information.
-
-Rules are subject to change at any time, and any decision made is final and up to moderator discretion.
 
 If you see any rulebreaking, please remember to open a ticket using the /tickets open command.
 
