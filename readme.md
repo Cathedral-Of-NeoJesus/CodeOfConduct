@@ -61,7 +61,7 @@ We do not tolerate any form of discrimination based on a person's:
   1: **NSFW content is not allowed.**
   NSFW is strictly forbidden in all of it's forms. Do not attempt to bypass this requirement.
   We are a open and welcoming community, that targets a varied age range, and we want to keep a safe enviroment for everyone here.
-  You may read the Cornell Law website for legal information: (https://www.law.cornell.edu/uscode/text/18/2256)
+  You may read the [Cornell Law website](https://www.law.cornell.edu/uscode/text/18/2256) for legal information
 
   2: **This is not a dating server**.
   Do not hit on people (even accidentally). This server is open to minors, and we can't
