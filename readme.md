@@ -7,6 +7,10 @@
 - "Archverse" shall mean the Archverse discord server, and/or any server that it might get renamed to or merged into in
 the future.
 
+- "Server" shall mean the same thing as Archverse
+
+- "We" shall mean the combined group of people in the administration and moderation team
+
 - "Community" shall mean the all of the members, admins, moderation team, and bots and apps combined
 
 - "Code Of Conduct" shall refer to this document
