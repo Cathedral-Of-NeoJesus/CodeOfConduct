@@ -19,6 +19,7 @@ the future.
 - Your content means your username, nickname, profile picture, bio, your messages in this server, or messages sent to
   members of this server in Direct Messages (DMs), 
 
+### Notice:
 By participating in the Archverse community, you agree to abide by this Code of Conduct and any future updates to it. We
 reserve the right to modify these terms at any time. While we will strive to communicate significant changes, continued
 participation in the community after changes are posted will constitute your acceptance of the revised terms.
