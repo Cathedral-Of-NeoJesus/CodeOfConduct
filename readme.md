@@ -88,7 +88,7 @@ Your content must remain appropriate for a community that includes minors, and a
 
 If you see any rule-breaking, please remember to open a ticket using the /tickets open command.
 
-Permanent server link: https://discord.gg/archverse
+Don't try to play the loophole game, if you need to ask yourself if something breaks the rule, the answer is probably yes
 
 <!-- this is never gonna render in the readme, so here i go: -->
 <!-- made with love, written in neovim, neovim is based btw -->
