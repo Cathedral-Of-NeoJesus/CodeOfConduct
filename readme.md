@@ -4,7 +4,16 @@ By participating in the Archverse community, you agree to abide by this Code of 
 reserve the right to modify these terms at any time. While we will strive to communicate significant changes, continued
 participation in the community after changes are posted will constitute your acceptance of the revised terms.
 
-> 1) **Follow Discord's Terms of Service.** This includes following your local legal age requirements for accessing discord's services.
+Additionally, you agree to comply with [Discord’s Terms of Service](https://discord.com/terms) and [Community
+Guidelines](https://discord.com/guidelines). Violations of any of the above may result in suspension or permanent
+removal from the community.
+
+### Age Requirements
+
+By joining, you confirm that you are old enough to use discord as per their terms of service. The minimum age is 13, but
+it can be up to 16 in some places. You can find the official list
+[here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) Note that
+having the minimum age requirement does not permit explicit or adult jokes given our diverse age group.
 
 > 2) **Don't be a dick.** This means don't harass, discriminate, or be an asshole. If mods or any user asks you to stop doing something, you're making them uncomfortable and any reistance will make you liable for banning. This includes offensive language, trolling, flaming, hate speech, discrimination and bigotry of any kind. Don't tell people to rtfm or post malicious commands without explicitely stating it as a joke.
 
