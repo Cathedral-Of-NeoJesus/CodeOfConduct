@@ -32,3 +32,8 @@ Rules are subject to change at any time, and any decision made is final and up t
 If you see any rulebreaking, please remember to open a ticket using the /tickets open command.
 
 Permanent server link: https://discord.gg/archverse
+
+
+<!-- this is never gonna render in the readme, so here i go: -->
+<!-- made with love, written in neovim, neovim is based btw -->
+<!-- pretty please don't remove this -->
