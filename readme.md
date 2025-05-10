@@ -5,21 +5,21 @@
 - "Archverse":  the Archverse Discord server, and/or any server that it might get renamed to or merged into in
 the future.
 
-- "Server": shall mean the same thing as Archverse
+- "Server": the same thing as Archverse
 
-- "We": shall mean the combined group of people in the administration and moderation team
+- "We": the combined group of people in the administration and moderation team
 
-- "Community": shall mean the all the members, admins, moderation team, and bots and apps combined
+- "Community": the members, admins, moderation team, bots and apps combined
 
-- "Code Of Conduct": shall refer to this document
+- "Code Of Conduct": this document
 
-- "You": shall mean the individual and/or entity and/or organization that's behind the account and/or communicating
+- "You": the individual and/or entity and/or organization that's behind the account and/or communicating
   through it
 
-- "Messages": shall mean any text, audio, video, image, and/or other content or data sent by your account
+- "Messages": any text, audio, video, image, and/or other content or data sent by your account
 
-- Your content: means your username, nickname, profile picture, bio, your messages in this server, and/or messages sent to
-  members of this server in Direct Messages (DMs), 
+- Your content: your username, nickname, profile picture, bio, your messages in this server, and/or messages sent to
+  members of this server in Direct Messages (DMs)
 
 ### 2. Disclaimer:
 By participating in the Archverse community, you agree to abide by this Code of Conduct and any future updates to it. We
@@ -51,7 +51,7 @@ We do not tolerate any form of discrimination based on a person's:
 - 8. Age
 - 9. Body size
 - 10. Disabilities
-- 11. And other aspects of their identity.
+- 11. Other aspects of their identity.
 
 
 ### 5. Community Rules
@@ -71,32 +71,32 @@ We do not tolerate any form of discrimination based on a person's:
   By extension, think before you type.
 
   3: **Hateful speech towards others:**
-  Hateful speech is not allowed on any form. you are allowed to have your own opinion, but it must follow the widely accepted standards of society. Respect to be respected.
+  Hateful speech is not allowed in any form. You are allowed to have your own opinion, but it must follow the widely accepted standards of society. Respect to be respected.
 
   4: **Spam in the general chats:** You are allowed to send GIFs/memes as long they don't flood the ongoing chat.
-     Media with loud sounds or innapropiate content may be removed. By extension, low effort trolling content is forbidden.
+  Media with loud sounds or inappropriate content may be removed. By extension, low effort trolling content is forbidden.
 
   5: **Piracy:**
-  Discussion regarding piracy is allowed, but it must comply with Discord ToS.
+  Discussions regarding piracy is allowed, but it must comply with Discord ToS.
   You may not share the sources or link to pirated content, in any form. 
 
   6: **Support Rules:**
-  Tech support regarding Arch Linux, Linux and related is provided as is, and is accesible to anyone on the community.
+  Tech support regarding Arch Linux, Linux and related is provided as is, and is accesible to anyone in the community.
   You are entitled to help others that may require assistance.
-  You are not "owed" help. People has their own lives and you may respect their free time.
+  You are not "owed" help. People have their own lives, hence they're helping voluntarily and you must therefore respect their free time.
   You may not ping others that do not want to help you.
-  You may link your issue thread, but do not spam it on other channels.
+  You may link your issue thread, but do not spam it in other channels.
   Trolling, malicious behavior, and/or shitposting in the support channels is forbidden.
-  You may not provide or ask for remote support via SSH, anydesk, teamviewer or any other form. By extension, Do not take support to DMs.
+  You may not provide or ask for remote support via SSH, anydesk, teamviewer or any other form. By extension, you may not take support to DMs.
   
 ### Last words:
 
 You may report any rule breaking situation and the infractors will be sanctioned properly. 
-You may notify staff and it's moderation team, by opening a ticket with the `/tickets open` command.
+You may notify staff and it's moderation team by opening a ticket with the `/tickets open` command.
 **Respect the privacy of others.**
 
 # You may not attempt to bypass or find loopholes to the aforementioned rules.
-  **any attempt to do so, will result on moderation actions, and sactions according to the gravity of the offense.**
+  **Any attempt to do so, will result in moderation actions, and sanctions according to the gravity of the offense.**
 
 
 ## Contributing:
