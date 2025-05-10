@@ -1,6 +1,8 @@
-**Welcome to the Archverse!**
+# The Archverse Code of Conduct
 
-Rules:
+By participating in the Archverse community, you agree to abide by this Code of Conduct and any future updates to it. We
+reserve the right to modify these terms at any time. While we will strive to communicate significant changes, continued
+participation in the community after changes are posted will constitute your acceptance of the revised terms.
 
 > 1) **Follow Discord's Terms of Service.** This includes following your local legal age requirements for accessing discord's services.
 
