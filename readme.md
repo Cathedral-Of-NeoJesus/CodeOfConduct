@@ -1,5 +1,7 @@
 # The Archverse Code of Conduct
 
+### this is still in the works, so it will have inconsistencies
+
 By participating in the Archverse community, you agree to abide by this Code of Conduct and any future updates to it. We
 reserve the right to modify these terms at any time. While we will strive to communicate significant changes, continued
 participation in the community after changes are posted will constitute your acceptance of the revised terms.
