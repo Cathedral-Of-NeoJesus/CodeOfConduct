@@ -90,6 +90,9 @@ If you see any rule-breaking, please remember to open a ticket using the /ticket
 
 Don't try to play the loophole game, if you need to ask yourself if something breaks the rule, the answer is probably yes
 
+The Code Of Conduct is written by humans, and to err is human, if you have justifiable issues and/or you have something
+that you can improve on, feel free to create an issue or a pull request.
+
 <!-- this is never gonna render in the readme, so here i go: -->
 <!-- made with love, written in neovim, neovim is based btw -->
 <!-- pretty please don't remove this -->
