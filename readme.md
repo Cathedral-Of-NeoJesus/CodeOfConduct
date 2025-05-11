@@ -41,17 +41,17 @@ By meeting the age requirements, you are not granted the rights to use restricte
 
 We do not tolerate any form of discrimination based on a person's:
 
-- 1. Gender
-- 2. Sexuality
-- 3. Race
-- 4. Religion
-- 5. Ethnicity
-- 6. Nationality
-- 7. Language
-- 8. Age
-- 9. Body size
-- 10. Disabilities
-- 11. Other aspects of their identity.
+- 1\. Gender
+- 2\. Sexuality
+- 3\. Race
+- 4\. Religion
+- 5\. Ethnicity
+- 6\. Nationality
+- 7\. Language
+- 8\. Age
+- 9\. Body size
+- 10\. Disabilities
+- 11\. Other aspects of their identity.
 
 
 ### 5. Community Rules
