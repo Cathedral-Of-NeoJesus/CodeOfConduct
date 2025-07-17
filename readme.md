@@ -81,7 +81,7 @@ We do not tolerate any form of discrimination based on a person's:
   You may not share the sources or link to pirated content, in any form. 
 
   6: **Support Rules:**
-  Tech support regarding Arch Linux, Linux and related is provided as is, and should be accessible to anyone in the community.
+  Tech support regarding anything is provided as is, and should be accessible to anyone in the community.
   You are entitled to help others that may require assistance.
   You are not "owed" help. People have their own lives, hence they're helping voluntarily, and you must therefore respect their free time.
   You may not ping others that do not want to help you.
@@ -92,7 +92,8 @@ We do not tolerate any form of discrimination based on a person's:
 ### Last words:
 
 You may report any rule breaking situation and the infractors will be sanctioned properly. 
-You may notify staff and/or the moderation team by opening a ticket with the `/tickets open` command.
+You may notify staff and/or the moderation team by pinging them.
+A ticketing system will be implemented later.
 **Respect the privacy of others.**
 
 # You may not attempt to bypass or find loopholes to the aforementioned rules.
