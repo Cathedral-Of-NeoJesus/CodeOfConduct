@@ -1,11 +1,11 @@
-# "Archverse Community" Code of Conduct
+# "Cathedral of NeoJesus" Code of Conduct
 
 ### 1. Definitions:
 
-- "Archverse": The Archverse Discord server, and/or any server that it might get renamed to or merged into in the
+- "Cathedral of NeoJesus": The `Cathedral of NeoJesus` Discord server, and/or any server that it might get renamed to or merged into in the
   future.
 
-- "Server": The same thing as Archverse
+- "Server": The same thing as `Cathedral of NeoJesus`
 
 - "We": The combined group of people in the administration and moderation team
 
@@ -22,7 +22,7 @@
   members of this server in Direct Messages (DMs)
 
 ### 2. Disclaimer:
-By participating in the Archverse community, you agree to abide by this Code of Conduct and any future updates to it. We
+By participating in the `Cathedral of NeoJesus`, you agree to abide by this Code of Conduct and any future updates to it. We
 reserve the right to modify these terms at any time. While we will strive to communicate significant changes, continued
 participation in the community after changes are posted will constitute your acceptance of the revised terms.
 
