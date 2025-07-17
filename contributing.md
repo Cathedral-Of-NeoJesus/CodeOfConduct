@@ -1,4 +1,4 @@
-# "Archverse Community" Code of Conduct contribution rules:
+# "Cathedral of NeoJesus" Code of Conduct contribution rules:
 
 - 1\. When submitting your contribution, please make sure that it doesn't actively violate the current code of
   conduct first. If you have a problem with the current code of conduct, we suggest talking about it in the server,
@@ -9,7 +9,7 @@
 
 - 3\. Section 4 and 5 of the Code of Conduct also applies to contributing.
 
-# "Archverse Community" Code of Conduct contribution guidelines:
+# "Cathedral of NeoJesus" Code of Conduct contribution guidelines:
 
 - 1\. Follow the [conventional commits guidelines][conventional_commits] to *make reviews easier* and to make git logs
   more valuable.
