@@ -69,8 +69,8 @@ We do not tolerate any form of discrimination based on a person's:
   accepted standards of society. Respect to be respected.
 
   3: **Spam in the general chats:**
-  You are allowed to send GIFs/memes as long they don't flood the ongoing chat. Media with loud sounds or inappropriate
-  content may be removed. By extension, low effort trolling content is forbidden.
+  If people are having a conversation, do not flood the chat, there are **PLENTY** of channels for you to spam memes,
+  specially the #memes channel
 
   4: **Piracy:**
   Discussions regarding piracy is allowed, but it must comply with Discord ToS. You may not share the sources or link to
