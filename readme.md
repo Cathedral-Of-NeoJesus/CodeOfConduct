@@ -54,7 +54,6 @@ We do not tolerate any form of discrimination based on a person's:
 - 10\. Disabilities
 - 11\. Other aspects of their identity.
 
-
 ### 5. Community Rules
 
 **By joining, you acknowledge that you abide to the following rules:**
@@ -62,7 +61,8 @@ We do not tolerate any form of discrimination based on a person's:
   1: **NSFW content is not allowed.**
   NSFW is strictly forbidden in all of its forms. Do not attempt to bypass this requirement. We are an open and
   welcoming community, that targets a varied age range, and we want to keep a safe environment for everyone here. You
-  may read the [Cornell Law website](https://www.law.cornell.edu/uscode/text/18/2256) for legal information
+  may read the [Cornell Law website](https://www.law.cornell.edu/uscode/text/18/2256) for legal information regarding
+  what counts as an nsfw content.
 
   2: **This is not a dating server**.
   Do not hit on people (even accidentally). This server is open to minors, and we can't verify anyone's age, so we have
