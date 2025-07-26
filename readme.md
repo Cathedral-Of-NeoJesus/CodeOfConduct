@@ -93,7 +93,7 @@ We do not tolerate any form of discrimination based on a person's:
   7: **Threatening people:**
   Do not give people threats, specially threatening to dox, harass, or kill them. If two old friends are joking between
   themselves, then it's probably fine, but if someone does this to you, and you want the team to take action against
-  them, then you can contact the moderation team at any time.
+  them, then you can contact the moderation team at any time, and we will take action against them.
 
 
 ### 6. Joking/Trolling:
