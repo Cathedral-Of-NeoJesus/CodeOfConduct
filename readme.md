@@ -73,8 +73,10 @@ We do not tolerate any form of discrimination based on a person's:
   specially the #memes channel
 
   4: **Piracy:**
-  Discussions regarding piracy is allowed, but it must comply with Discord ToS. You may not share the sources or link to
-  pirated content, in any form. 
+  To comply with discord's TOS, sharing links and sources about piracy would get the server in trouble, and as a member
+  of the server, you should think twice before taking a decision that may harm the server and it's members. Talking
+  about piracy and warning users about unsafe sites should be allowed. HOWEVER, do not give sources to any safe/unsafe
+  sites. And as always, just use r/piracy's megathread instead of asking around random people on the internet.
 
   5: **Support Rules:**
   Tech support regarding anything is provided as is, and should be accessible to anyone in the community. You are
