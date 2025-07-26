@@ -62,7 +62,7 @@ We do not tolerate any form of discrimination based on a person's:
   NSFW is strictly forbidden in all of its forms. Do not attempt to bypass this requirement. We are an open and
   welcoming community, that targets a varied age range, and we want to keep a safe environment for everyone here. You
   may read the [Cornell Law website](https://www.law.cornell.edu/uscode/text/18/2256) for legal information regarding
-  what counts as an nsfw content.
+  what counts as an NSFW content.
 
   2: **Hateful speech towards others:**
   Hateful speech is not allowed in any form. You are allowed to have your own opinion, but it must follow the widely
