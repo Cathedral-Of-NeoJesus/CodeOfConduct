@@ -64,26 +64,19 @@ We do not tolerate any form of discrimination based on a person's:
   may read the [Cornell Law website](https://www.law.cornell.edu/uscode/text/18/2256) for legal information regarding
   what counts as an nsfw content.
 
-  2: **This is not a dating server**.
-  Do not hit on people (even accidentally). This server is open to minors, and we can't verify anyone's age, so we have
-  to treat all instances as potential interaction with a minor, regardless of how old anyone says they are. As an adult,
-  you should be mature, use common sense, and avoid interactions with minors in any form that involves dating or
-  similar. If you're a minor, this also applies for the reasons mentioned beforehand. Do not engage in such activities
-  for your own safety. By extension, think before you type.
-
-  3: **Hateful speech towards others:**
+  2: **Hateful speech towards others:**
   Hateful speech is not allowed in any form. You are allowed to have your own opinion, but it must follow the widely
   accepted standards of society. Respect to be respected.
 
-  4: **Spam in the general chats:**
+  3: **Spam in the general chats:**
   You are allowed to send GIFs/memes as long they don't flood the ongoing chat. Media with loud sounds or inappropriate
   content may be removed. By extension, low effort trolling content is forbidden.
 
-  5: **Piracy:**
+  4: **Piracy:**
   Discussions regarding piracy is allowed, but it must comply with Discord ToS. You may not share the sources or link to
   pirated content, in any form. 
 
-  6: **Support Rules:**
+  5: **Support Rules:**
   Tech support regarding anything is provided as is, and should be accessible to anyone in the community. You are
   entitled to help others that may require assistance. You are not "owed" help. People have their own lives, hence
   they're helping voluntarily, and you must therefore respect their free time. You may not ping others that do not want
