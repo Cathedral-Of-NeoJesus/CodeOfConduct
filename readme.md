@@ -85,7 +85,22 @@ We do not tolerate any form of discrimination based on a person's:
   to help you. You may link your issue thread, but do not spam it in other channels. Trolling, malicious behaviour,
   and/or shitposting in the support channels is forbidden. You may not provide or ask for remote support via SSH,
   Anydesk, Teamviewer or any other form. By extension, you may not take support to DMs.
-  
+
+### 6. Joking/Trolling:
+  1: **Respect NO:**
+  People have their limits, if someone isn't comfortable with your jokes and is telling you to not make that jokes about
+  THEM, you should stop before the moderation team has to intervene.
+
+  2: **Saying something is bad doesn’t mean they’re attacking you personally:**
+  While you should encourage people's personal work, saying that "x distro is bad" or "y text editor is shit" or "z
+  ideology is stupid", does not break the rules. People have their own opinion, and sharing that opinion is not a bad
+  thing. People that say these stuff however, be prepared to hear the same thing for other people too.
+
+  3: **Everyone does not have the same humor:**
+  gray jokes should be allowed, but Vile dark jokes should not be done in the server since the server has a diverse
+  group of people, and we do not want to make anyone feel offended or attacked. Keep edgy stuff in private servers and
+  in dms please. (You can also send ingenarel(NeoJesus) dark jokes in his dms since he is a connoisseur of dark humor)
+
 ### Last words:
 You may report any rule breaking situation and the infractors will be sanctioned properly. You may notify staff and/or
 the moderation team by pinging them. A ticketing system will be implemented later.
