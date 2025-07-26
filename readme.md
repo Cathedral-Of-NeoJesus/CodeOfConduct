@@ -30,7 +30,7 @@ Additionally, you agree to comply with [Discord’s Terms of Service](https://di
 Guidelines](https://discord.com/guidelines). Violations of the above may result in suspension and/or permanent removal
 from the community.
 
-[code of condcut for members](members.md)
+### [code of condcut for members](members.md)
 
 ### Last words:
 You may report any rule breaking situation and the infractors will be sanctioned properly. You may notify staff and/or
