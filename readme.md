@@ -90,6 +90,11 @@ We do not tolerate any form of discrimination based on a person's:
   DO NOT DO ANYTHING THAT BREAKS SAFETY OF MINORS. The server admin takes this very seriously, and any breaking of this
   rule can give you a permanent ban and the moderation team can even contact other server mods for a cross-sever ban.
 
+  7: **Threatening people:**
+  Do not give people threats, specially threatening to dox, harass, or kill them. If two old friends are joking between
+  themselves, then it's probably fine, but if someone does this to you, and you want the team to take action against
+  them, then you can contact the moderation team at any time.
+
 
 ### 6. Joking/Trolling:
   1: **Respect NO:**
