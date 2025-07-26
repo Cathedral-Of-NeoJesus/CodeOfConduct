@@ -86,6 +86,11 @@ We do not tolerate any form of discrimination based on a person's:
   and/or shitposting in the support channels is forbidden. You may not provide or ask for remote support via SSH,
   Anydesk, Teamviewer or any other form. By extension, you may not take support to DMs.
 
+  6: **Safety of minors:**
+  DO NOT DO ANYTHING THAT BREAKS SAFETY OF MINORS. The server admin takes this very seriously, and any breaking of this
+  rule can give you a permanent ban and the moderation team can even contact other server mods for a cross-sever ban.
+
+
 ### 6. Joking/Trolling:
   1: **Respect NO:**
   People have their limits, if someone isn't comfortable with your jokes and is telling you to not make that jokes about
