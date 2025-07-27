@@ -31,6 +31,7 @@ Guidelines](https://discord.com/guidelines). Violations of the above may result 
 from the community.
 
 ### [code of condcut for members](members.md)
+### [code of condcut for moderators](moderation.md)
 
 ### Last words:
 You may report any rule breaking situation and the infractors will be sanctioned properly. You may notify admins and/or
