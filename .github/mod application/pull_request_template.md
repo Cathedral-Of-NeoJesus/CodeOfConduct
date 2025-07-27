@@ -1,0 +1,3 @@
+- [ ] I have agreed to the `Cathedral Of NeoJesus` member's code of conduct
+- [ ] I have agreed to the `Cathedral Of NeoJesus` moderation's code of conduct
+- [ ] My current level is above level 3
