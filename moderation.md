@@ -19,3 +19,9 @@ says slur and/or threats to the people in the server the second they join. One o
 You are given this role to ensure the safety and sanity of the community. This is not your own server. This is the
 people's server. And expect people to troll/be rude/question you. If you take ban/timeout/mute someone without them
 breaking a server rules, then the administration can and probably will remove your mod role.
+
+### 5. Do not purge/delete messages if not necessary:
+Do it only if:
+1\. Hardcore NSFW
+2\. Doxxing someone
+3\. Over-spam (the server should have anti-spam enabled tho)
