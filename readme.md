@@ -33,8 +33,9 @@ from the community.
 ### [code of condcut for members](members.md)
 
 ### Last words:
-You may report any rule breaking situation and the infractors will be sanctioned properly. You may notify staff and/or
-the moderation team by pinging them. A ticketing system will be implemented later.
+You may report any rule breaking situation and the infractors will be sanctioned properly. You may notify admins and/or
+the moderation team by pinging `@Supreme Seers` (admins) and `@Grand Clerics` (mods). A ticketing system will be
+implemented in future.
 **Respect the privacy of others.**
 
 # You may not attempt to bypass or find loopholes to the aforementioned rules.
