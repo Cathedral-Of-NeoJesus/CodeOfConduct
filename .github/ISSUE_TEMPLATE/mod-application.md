@@ -10,5 +10,9 @@ assignees: ingenarel
 - [ ] (required) I have agreed to the `Cathedral Of NeoJesus` member's code of conduct
 - [ ] (required) I have agreed to the `Cathedral Of NeoJesus` moderation's code of conduct
 - [ ] (required) My current level is above level 3
+- [ ] (required) I will wear the server tag during my time as a mod, and if I remove/change it, the admins can remove my
+  mod role.
 
-My discord id is:  <discord id>
+- [ ] I accept NeoJesus as the lord and saviour :)
+
+My discord ID is: <discord id>
