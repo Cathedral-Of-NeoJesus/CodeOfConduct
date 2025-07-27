@@ -12,7 +12,7 @@ just outright banning people if you don't like them is a stupid decision. Do tim
 Banning someone should be permanent only, so that's why the idea of a timeout is better than a ban, because the person
 in question can also see the server interacting and having fun with each other without them.
 
-However this does not apply for breaking section 5.6 of the member's code of conduct, or if it's a simple troll that
+However, this does not apply for breaking section 5.6 of the member's code of conduct, or if it's a simple troll that
 says slur and/or threats to the people in the server the second they join. One or two mistakes can be pardoned tho
 
 ### 4. People have the authority to question you:
