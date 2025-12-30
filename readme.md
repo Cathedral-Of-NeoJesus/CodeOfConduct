@@ -50,3 +50,9 @@ tracker/pull request. Please also read our [Contributing rules and guidelines](c
 <!-- this is never gonna render in the readme, so here i go: -->
 <!-- made and written with love on neovim. Original document by @ingenarel, revision by hazelshantz -->
 <!-- pretty please don't remove this -->
+
+<a href="https://github.com/Cathedral-Of-NeoJesus/CodeOfConduct/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Cathedral-Of-NeoJesus/CodeOfConduct" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
