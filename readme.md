@@ -1,3 +1,5 @@
+MOVED TO: https://git.koolkid6958.dev/TIF/CodeOfConduct
+
 # "Cathedral of NeoJesus" Code of Conduct
 
 ### 1. Definitions:
